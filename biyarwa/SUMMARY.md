@@ -41,3 +41,4 @@
   * [ERC20](kua-lian-qiao/erc20.md)
 * [TPS test](tps-test/README.md)
   * [测试报告](tps-test/ce-shi-bao-gao.md)
+  * [Test steps](tps-test/test-steps.md)
